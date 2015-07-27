@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ExemploTableLayout</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="widget_1">Widget 1</string>
+    <string name="widget_2">Widget 2</string>
+    <string name="widget_3">Widget 3</string>
+    <string name="widget_4">Widget 4</string>
+    <string name="widget_spec_1">Widget 2 Widget 2 Widget 2 Widget 2</string>
+    <string name="widget_spec_2">Widget 3 Widget 3 Widget 3 Widget 3</string>
+    <string name="widget_spec_3">Widget 4 Widget 4 Widget 4 Widget 4</string>
+    <string name="btn1">Botton</string>
+
+</resources>
